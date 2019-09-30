@@ -1,0 +1,26 @@
+_repo: Kurzgefasste-Deutsche-Stilistik_60306
+_version: 0.0.1
+alternative_title: Kurzgefasste Deutsche Stilistik
+creator:
+  author:
+    agent_name: Lyon, Otto
+    birthdate: 1853
+    deathdate: 1912
+    gutenberg_agent_id: '50886'
+    url: http://www.gutenberg.org/2009/agents/50886
+    wikipedia: https://de.wikipedia.org/wiki/Otto_Lyon
+description: ''
+gutenberg_issued: '2019-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60306'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PF'
+- !lcsh 'German language -- Rhetoric'
+- GITenberg
+title: Kurzgefaßte Deutsche Stilistik
+url: http://www.gutenberg.org/ebooks/60306
